@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@trustwallet/connect-core':
+        specifier: 0.0.0
+        version: 0.0.0
+
+packages:
+
+  '@trustwallet/connect-core@0.0.0':
+    resolution: {integrity: sha512-MlyObFxnwHX6Dg0griTJ0QhRDJbXQ7U9W/zZyyPq9hnpq0FxADKhWhvucISJeBDOfoxIgEytCMNL+o93AbgN7w==}
+
+snapshots:
+
+  '@trustwallet/connect-core@0.0.0': {}
